@@ -1,1 +1,4 @@
 This is some file
+
+
+This is some changes in some.txt file
